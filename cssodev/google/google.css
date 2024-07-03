@@ -1,0 +1,20 @@
+.center{
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+    
+}
+
+#box1{
+    background-color: grey;
+}
+
+.box{
+    float: left;
+    margin: 0 auto;
+    width: 33%;
+    min-height: 200px;
+    text-align: center;
+    background-color:aqua ;
+    height: auto;
+}
